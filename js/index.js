@@ -86,3 +86,4 @@ function updateCurValue(){
     curValue.textContent = `filter: ${divElem.style.filter}`
 }
 setSlider(selectElem.value);
+setDiv(selectElem.value);
